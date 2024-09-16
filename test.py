@@ -1,1 +1,2 @@
-print("masukkan nama anda")
+print("masukkan nama")
+print("masukkan nama panggilan")
